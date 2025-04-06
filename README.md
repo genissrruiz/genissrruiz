@@ -5,7 +5,7 @@
 
 <h4 align="center">💡I'm constantly seeking new challenges in Machine Learning and Artificial Intelligence to expand my knowledge. </h4>
 
-- 🌱 I’m currently learning **Neural Networks and temporal Series**
+- 🌱 I’m currently into **Sports Data Science**
 
 - 🤝 Let's Connect! **I'm always open to collaborations, discussions, and learning from fellow enthusiasts in the data science community. Feel free to reach out for projects.**
 
